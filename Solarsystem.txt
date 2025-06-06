@@ -7,5 +7,6 @@ Mars
 - Phobos
 - Deimos
 Jupiter
+-europa
 Saturn
 Uranus
